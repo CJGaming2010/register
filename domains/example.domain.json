@@ -1,0 +1,21 @@
+{
+    "description": "I need this to make a CNAME so I can connect to my Minecraft server because I am using playit.gg and I don't want to have to pay to put a custom domain.",
+
+    "domain": "is-cool.dev",
+    "subdomain": "cornmc",
+
+    "owner": {
+        "repo": "https://github.com/username/repo",
+        "email": "connor.burnshall@gmail.com"
+    },
+
+    "record": {
+        "A": ["none"],
+        "AAAA": ["none"],
+        "CNAME": "deals-midlands.joinmc.link",
+        "MX": ["none"],
+        "TXT": ["none"]
+    },
+
+    "proxied": false
+}
